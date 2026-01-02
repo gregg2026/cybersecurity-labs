@@ -40,6 +40,22 @@ cybersecurity-labs/
 │ ├── README.md
 │ └── network security labs
 
+## Featured Labs
+
+### 🛡️ SOC Investigations
+- **Windows Event Log Investigation – Suspicious Authentication Activity**  
+  Analyzed failed and successful authentication events to identify credential-based attack patterns, assess risk, and recommend mitigations.  
+  *Skills: Windows Security Logs, Risk Assessment, MITRE ATT&CK*
+
+- **Endpoint Alert Investigation – Suspicious PowerShell Activity**  
+  Performed endpoint alert triage involving abnormal PowerShell execution, evaluated execution context, and assessed potential malicious behavior.  
+  *Skills: Endpoint Security, Alert Triage, MITRE ATT&CK*
+
+### ☁️ Cloud & Identity Security
+- **Conditional Access Review – Risk-Based Authentication Controls**  
+  Reviewed and improved Conditional Access policies to reduce identity-based attack risk and align with Zero Trust principles.  
+  *Skills: Microsoft Entra ID, MFA, Identity Security*
+
 
 ## Lab Format
 Each lab is documented using a consistent structure:
