@@ -51,14 +51,19 @@ cybersecurity-labs/
   Performed endpoint alert triage involving abnormal PowerShell execution, evaluated execution context, and assessed potential malicious behavior.  
   *Skills: Endpoint Security, Alert Triage, MITRE ATT&CK*
 
+- **Incident Response Tabletop – Identity Compromise Scenario**  
+  Simulated a SOC-led response to a privileged identity compromise, covering detection, containment, eradication, recovery, and post-incident review.  
+  *Skills: Incident Response, Identity Security, SOC Operations*
+
 ### ☁️ Cloud & Identity Security
 - **Conditional Access Review – Risk-Based Authentication Controls**  
-  Reviewed and improved Conditional Access policies to reduce identity-based attack risk and align with Zero Trust principles.  
+  Reviewed and strengthened Conditional Access policies to reduce identity-based attack risk and align with Zero Trust principles.  
   *Skills: Microsoft Entra ID, MFA, Identity Security*
 
 - **Privileged Identity Management (PIM) – Just-In-Time Administrative Access**  
-  Implemented and reviewed PIM to eliminate standing administrative privileges and enforce least-privilege access using time-bound role elevation.  
+  Implemented and reviewed PIM to eliminate standing administrative privileges and enforce least-privilege access through time-bound role elevation.  
   *Skills: Privileged Access Management, Zero Trust, Identity Governance*
+
 
 
 
