@@ -44,8 +44,8 @@ cybersecurity-labs/
 
 ### 🛡️ SOC Investigations
 - **Windows Event Log Investigation – Suspicious Authentication Activity**  
-  Analyzed failed and successful authentication events to identify credential-based attack patterns, assess risk, and recommend mitigations.  
-  *Skills: Windows Security Logs, Risk Assessment, MITRE ATT&CK*
+  Investigated failed and successful authentication events to identify credential-based attack patterns, assess risk, and recommend mitigations.  
+  *Skills: Windows Security Logs, Authentication Analysis, MITRE ATT&CK*
 
 - **Endpoint Alert Investigation – Suspicious PowerShell Activity**  
   Performed endpoint alert triage involving abnormal PowerShell execution, evaluated execution context, and assessed potential malicious behavior.  
@@ -55,6 +55,11 @@ cybersecurity-labs/
 - **Conditional Access Review – Risk-Based Authentication Controls**  
   Reviewed and improved Conditional Access policies to reduce identity-based attack risk and align with Zero Trust principles.  
   *Skills: Microsoft Entra ID, MFA, Identity Security*
+
+- **Privileged Identity Management (PIM) – Just-In-Time Administrative Access**  
+  Implemented and reviewed PIM to eliminate standing administrative privileges and enforce least-privilege access using time-bound role elevation.  
+  *Skills: Privileged Access Management, Zero Trust, Identity Governance*
+
 
 
 ## Lab Format
